@@ -4,6 +4,12 @@
 # H1
 ## H2
 ### H3
+
+1. Understood the terminal navigation
+2. understood the dogs name
+3. understood the concept of how comuters work
+4. feel great
+
 Bold	**bold text**
 Italic	*italicized text*
 Blockquote	> blockquote
