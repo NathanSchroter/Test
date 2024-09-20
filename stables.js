@@ -7,4 +7,5 @@ console.log(horseAge);
 
 let isHorseInside = true;
 console.log(isHorseInside);
-
+let horseOutside = false;
+console.log(horseOutside);
