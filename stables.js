@@ -37,3 +37,12 @@ console.log(false + "NAN");
 //Part02
 
 console.log(` My horse's name is " + ${horseName} +"and he is " + ${horseAge - 3} + "years old`);
+/** */
+
+
+const horseNickName = "Nathan"
+console.log("Hello i am" +  horseNickName, + "hello im nathan the horse and ") 
+
+const STABLE_MONTHLY = 500; 
+const savings = (STABLE_MONTHLY * 3) * 0.1;
+console.log(`You would save ${savings} with a 10% discount applied to a 3-month stay at our stables.`);
