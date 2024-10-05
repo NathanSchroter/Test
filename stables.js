@@ -6,10 +6,10 @@ let fakeVariable = ")";
 let horseAge = 5;
 console.log(horseAge);
 
-let isHorseInside = true;
-console.log(isHorseInside);
-let horseOutside = false;
-console.log(horseOutside);
+// let isHorseInside = true;
+// console.log(isHorseInside);
+// let horseOutside = false;
+// console.log(horseOutside);
 
 
 
@@ -46,3 +46,10 @@ console.log("Hello i am" +  horseNickName, + "hello im nathan the horse and ")
 const STABLE_MONTHLY = 500; 
 const savings = (STABLE_MONTHLY * 3) * 0.1;
 console.log(`You would save ${savings} with a 10% discount applied to a 3-month stay at our stables.`);
+
+
+let horseInside = "The horse is inside";
+let horseOutside = "The horse is outside";
+
+console.log(horseInside);
+console.log(horseOutside);
